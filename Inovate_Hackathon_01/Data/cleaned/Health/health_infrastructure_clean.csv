@@ -1,0 +1,37 @@
+s_no,state,phc_rural,phc_urban,phc_total,chc_rural,chc_urban,chc_total
+1,andhra pradesh,1142,259,1401,141,57,198
+2,arunachal pradesh,122,5,127,57,0,57
+3,assam,948,53,1001,197,2,199
+4,bihar,1932,102,2034,306,0,306
+5,chhattisgarh,769,52,821,166,3,169
+6,goa,23,4,27,6,0,6
+7,gujarat,1477,322,1799,333,27,360
+8,haryana,384,100,484,124,13,137
+9,himachal pradesh,553,19,572,98,0,98
+10,jharkhand,291,59,350,171,5,176
+11,karnataka,2141,390,2531,182,30,212
+12,kerala,782,158,940,213,16,229
+13,madhya pradesh,1234,284,1518,295,25,320
+14,maharashtra,1839,651,2490,270,131,401
+15,manipur,86,9,95,17,0,17
+16,meghalaya,121,24,145,28,0,28
+17,mizoram,62,6,68,9,0,9
+18,nagaland,131,7,138,21,0,21
+19,odisha,1288,91,1379,377,7,384
+20,punjab,422,100,522,150,10,160
+21,rajasthan,2130,264,2394,589,68,657
+22,sikkim,24,2,26,2,0,2
+23,tamil nadu,1422,464,1886,385,15,400
+24,telangana,636,227,863,85,10,95
+25,tripura,108,8,116,22,0,22
+26,uttarakhand,245,42,287,53,19,72
+27,uttar pradesh,2923,593,3516,753,12,765
+28,west bengal,915,454,1369,348,0,348
+29,andaman and nicobar islands,22,5,27,4,0,4
+30,chandigarh,0,42,42,0,2,2
+31,dadra and nagar haveli and daman and diu,12,2,14,3,1,4
+32,delhi,5,544,549,0,0,0
+33,jammu and kashmir,891,82,973,63,16,79
+34,ladakh,32,0,32,7,0,7
+35,lakshadweep,4,0,4,3,0,3
+36,puducherry,24,15,39,3,1,4
