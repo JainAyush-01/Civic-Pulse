@@ -4,9 +4,7 @@ __pycache__/
 .env
 .idea/
 .vscode/
-*.xlsx
-*.xlsx
-*.csv
+
 TEmp/
-*.pdf
+
 
